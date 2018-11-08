@@ -1,1 +1,1 @@
-# happiness-algorithms
+# Happiness algorithms
