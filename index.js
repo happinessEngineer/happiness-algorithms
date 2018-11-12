@@ -9,8 +9,7 @@ const Me = () => {
   }
   
   return (
-    <Me
-      onWake={doMorningRoutine}
+    <Me onWake={doMorningRoutine} />
   )
 }
 
